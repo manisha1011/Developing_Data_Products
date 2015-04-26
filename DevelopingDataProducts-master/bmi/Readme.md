@@ -1,10 +1,9 @@
-# Developing_Data_Products
 Body Mass Index (BMI) is a simple index of weight-for-height that is commonly used to classify underweight, overweight and obesity in adults. It is defined as the weight in kilograms divided by the square of the height in metres (kg/m2).  
 
 ### Motivation  
 
 > Key facts:    
-  Worldwide obesity has nearly doubled since 1980.  
+Worldwide obesity has nearly doubled since 1980.  
 In 2008, more than 1.4 billion adults, 20 and older, were overweight. Of these over 200 million men and nearly 300 million women were obese.  
 35% of adults aged 20 and over were overweight in 2008, and 11% were obese.  
 65% of the world's population live in countries where overweight and obesity kills more people than underweight.
@@ -34,4 +33,5 @@ The main panel is consist of 5 tabs:
 4. **Plot:Mean BMI trend** plot(rCharts) of the trend of mean BMI crude estimates for both genders in time. Data originate from WHO Global Health Observatory Data Repository. If there are no data available for selected country, the plot is not populated.  
 5. **Plot:BMI Indicators for US States** If USA of America is selected as country, then respectively the selected state in USA this tab is populated with bar plot(rCharts) of 2012 BMI indicators for adults for selected state. Data used for this section originate from [CDC-Behavioral Risk Factor Surveillance System; Prevalence and Trends Data; Overweight and Obesity-BMI 2012](http://apps.nccd.cdc.gov/brfss/list.asp?cat=OB&yr=2012&qkey=8261&state=All).  
 All three datasets are available for free download and were downloaded 10 June,2014.  
-Stay healthy and excercize more!
+Stay healthy and excercize more!  
+Feel free to send me your comments,questions or report bugs [crazyfarangm@gmail.com].
